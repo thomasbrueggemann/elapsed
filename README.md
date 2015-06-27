@@ -30,5 +30,5 @@ double t = e.End("My measured operations");
 Or without any stdout output
 
 ```C++
-doube t = e.End();
+double t = e.End();
 ```
