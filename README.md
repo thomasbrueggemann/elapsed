@@ -15,7 +15,8 @@ e.Start();
 
 sleep(2);
 
-e.End("Finished");
+double t = e.End("Finished");
+// --> "Finished (2000 ms)"
 ```
 
 This would print out "Finished (2000 ms)" onto stdout.
