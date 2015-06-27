@@ -6,9 +6,6 @@
 #include <iostream>
 #include <string>
 
-typedef std::chrono::high_resolution_clock Clock;
-typedef std::chrono::milliseconds milliseconds;
-
 class Elapsed
 {
 private:
