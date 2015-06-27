@@ -41,9 +41,8 @@ inline double Elapsed::End(std::string name)
 inline double Elapsed::End()
 {
 	std::chrono::high_resolution_clock::time_point end = std::chrono::high_resolution_clock::now();
-
 	std::chrono::milliseconds ms = std::chrono::duration_cast<std::chrono::milliseconds>(end - this->start);
-	return ms.count(); // convert to milliseconds
+	return ms.count();
 };
 
 #endif
