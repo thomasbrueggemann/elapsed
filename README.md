@@ -3,7 +3,7 @@ A C++ timer to track how long an operation takes. Inspired by the ease of javasc
 
 ## Installation
 
-This is header only. Just drop the elapsed.hpp into your project.
+This is header only. Just drop the *elapsed.hpp* into your project.
 
 ## Usage
 
