@@ -8,6 +8,8 @@ This is header only. Just drop the elapsed.hpp into your project.
 ## Usage
 
 ```C++
+#include <elapsed.hpp>
+
 Elapsed e;
 e.Start();
 
