@@ -1,3 +1,5 @@
+<center><img src="http://www.wpclipart.com/time/stopwatch/running_stopwatch_shaded.png" width="100"></center>
+
 # elapsed
 A C++ timer to track how long an operation takes. Inspired by the ease of javascripts console.time()
 
